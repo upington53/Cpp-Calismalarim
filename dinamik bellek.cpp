@@ -7,7 +7,7 @@ int i;
 int * p;
 p= new int[2];
 
-//int *p = new int[2];    //Tek satır halinde yazılmış hali
+//int *p = new int[2];    //Tek satir halinde yazilmis hali
 
      for (i=0; i<2; i++)
       {
