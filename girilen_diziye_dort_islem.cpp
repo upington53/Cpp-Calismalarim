@@ -28,8 +28,8 @@ int main() {
 	
 	
 	
-	int uzunluk =sizeof(sayilar) /sizeof(sayilar[0]); //Bölünen sayı verilerin byte toplamı. Bölen ise 1 tanesinin byte'sı (4 genelde).
-							//Yani bu sayede kaç tane dizi elemanı olduğu öğrenilebilir. 
+	int uzunluk =sizeof(sayilar) /sizeof(sayilar[0]); //BÃ¶lÃ¼nen sayÄ± verilerin byte toplamÄ±. BÃ¶len ise 1 tanesinin byte'sÄ± (4 genelde).
+							//Yani bu sayede kaÃ§ tane dizi elemanÄ± olduÄŸu Ã¶ÄŸrenilebilir. 
 	
 	int a,b,c,f;
 	bool dizide= false;
